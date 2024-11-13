@@ -55,6 +55,8 @@ Charge les données depuis le fichier CSV avec les caractéristiques des toilett
 
 ### Visualisation de l’Arbre de Décision
 - L'arbre est affiché avec `plot_tree`, ce qui permet de visualiser les décisions prises pour prédire l'accessibilité PMR.
+- ![Description de l'image](myplot.png)
+
 
 ## Exemple de Code
 
